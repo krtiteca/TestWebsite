@@ -1,2 +1,2 @@
 # TestWebsite
-Testing set-up of serverless website.
+Testing set-up of server-less website.
